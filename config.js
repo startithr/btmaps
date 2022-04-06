@@ -6,7 +6,7 @@ const config = {
   accessToken:
     'pk.eyJ1IjoiaW5mb3N0YXJ0aXQiLCJhIjoiY2t6MnFkb3NxMDBmYjJudG00dDlodWl6cSJ9.8ABWFSKEAzbuVzZcwkbxfQ',
   CSV: './Data.csv',
-  center: [16.06730449563833, 43.13126470163047],
+  center: [16.694078015622335, 42.96604943925991],
   zoom: 7,
   title: 'Karta Trebinjsko-mrkanske biskupije',
   description:
